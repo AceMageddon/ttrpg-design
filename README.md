@@ -17,5 +17,3 @@ A 20-page guide for running a long Cyberpunk RED campaign as a chain of Jobs and
 ---
 
 Ace's Guide to Making Jobs & Missions is unofficial content provided under the Homebrew Content Policy of R. Talsorian Games and is not approved or endorsed by RTG. This content references materials that are the property of R. Talsorian Games and its licensees.
-
-Text © 2026 AceMageddon. All rights reserved.
